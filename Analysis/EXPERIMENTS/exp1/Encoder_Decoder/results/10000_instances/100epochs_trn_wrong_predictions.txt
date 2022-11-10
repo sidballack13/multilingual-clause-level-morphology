@@ -1,0 +1,2 @@
+target: abuse INDFUTNOM(3,SG,FEM)QACC(2)</s> pred: abuse INDFUTNOM(3,SG,FEM)</s>ACC(2)<
+target: abuse INDPRSPROGNOM(3,SG,FEM)</s> pred: abuse INDNOM(3,SG,FEM)PROGNOM(3,S

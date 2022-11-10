@@ -1,0 +1,60 @@
+2022-11-05 04:45:09,979 | | INFO | | Code started 
+
+2022-11-05 04:45:12,757 | | INFO | | 
+Using device: cuda
+2022-11-05 04:45:12,758 | | INFO | | Number of Epochs: 10
+2022-11-05 04:45:12,758 | | INFO | | Batch Size: 64
+2022-11-05 04:45:12,758 | | INFO | | Learning rate: 0.0005
+2022-11-05 04:45:12,761 | | INFO | | Number of parameters 35650596
+2022-11-05 04:45:12,761 | | INFO | | Embedding Dimension: 256
+2022-11-05 04:45:12,761 | | INFO | | Number of heads in Attention: 16
+2022-11-05 04:45:12,761 | | INFO | | Dropout rate: 0.15
+
+2022-11-05 04:45:46,245 | | INFO | | Epoch: 0/10 | avg_train_loss: 1.0524119 | perplexity: 2.8645518 | train_accuracy: 0.6863561
+2022-11-05 04:45:48,310 | | INFO | | Epoch: 0/10 |  avg_test_loss: 0.3111292 | perplexity: 1.3649655 |  test_accuracy: 0.9098846
+
+2022-11-05 04:45:48,317 | | INFO | | Update best val loss
+
+2022-11-05 04:46:05,448 | | INFO | | Epoch: 1/10 | avg_train_loss: 0.1788722 | perplexity: 1.1958679 | train_accuracy: 0.9429478
+2022-11-05 04:46:05,930 | | INFO | | Epoch: 1/10 |  avg_test_loss: 0.1919713 | perplexity: 1.2116357 |  test_accuracy: 0.9495000
+
+2022-11-05 04:46:05,931 | | INFO | | Update best val loss
+
+2022-11-05 04:46:23,232 | | INFO | | Epoch: 2/10 | avg_train_loss: 0.1101791 | perplexity: 1.1164780 | train_accuracy: 0.9650946
+2022-11-05 04:46:23,714 | | INFO | | Epoch: 2/10 |  avg_test_loss: 0.1431409 | perplexity: 1.1538924 |  test_accuracy: 0.9640769
+
+2022-11-05 04:46:23,714 | | INFO | | Update best val loss
+
+2022-11-05 04:46:40,862 | | INFO | | Epoch: 3/10 | avg_train_loss: 0.0857361 | perplexity: 1.0895188 | train_accuracy: 0.9728416
+2022-11-05 04:46:41,353 | | INFO | | Epoch: 3/10 |  avg_test_loss: 0.1349279 | perplexity: 1.1444543 |  test_accuracy: 0.9638846
+
+2022-11-05 04:46:41,354 | | INFO | | Update best val loss
+
+2022-11-05 04:46:58,608 | | INFO | | Epoch: 4/10 | avg_train_loss: 0.0769738 | perplexity: 1.0800138 | train_accuracy: 0.9757758
+2022-11-05 04:46:59,088 | | INFO | | Epoch: 4/10 |  avg_test_loss: 0.1300913 | perplexity: 1.1389323 |  test_accuracy: 0.9703846
+
+2022-11-05 04:46:59,089 | | INFO | | Update best val loss
+
+2022-11-05 04:47:31,914 | | INFO | | Epoch: 5/10 | avg_train_loss: 0.0716285 | perplexity: 1.0742562 | train_accuracy: 0.9773482
+2022-11-05 04:47:33,975 | | INFO | | Epoch: 5/10 |  avg_test_loss: 0.1959896 | perplexity: 1.2165143 |  test_accuracy: 0.9585769
+
+2022-11-05 04:47:50,712 | | INFO | | Epoch: 6/10 | avg_train_loss: 0.0683632 | perplexity: 1.0707542 | train_accuracy: 0.9780139
+2022-11-05 04:47:51,193 | | INFO | | Epoch: 6/10 |  avg_test_loss: 0.1454770 | perplexity: 1.1565912 |  test_accuracy: 0.9691923
+
+2022-11-05 04:48:07,891 | | INFO | | Epoch: 7/10 | avg_train_loss: 0.0637902 | perplexity: 1.0658687 | train_accuracy: 0.9797584
+2022-11-05 04:48:08,372 | | INFO | | Epoch: 7/10 |  avg_test_loss: 0.1485739 | perplexity: 1.1601785 |  test_accuracy: 0.9638462
+
+2022-11-05 04:48:25,136 | | INFO | | Epoch: 8/10 | avg_train_loss: 0.0611888 | perplexity: 1.0630996 | train_accuracy: 0.9804355
+2022-11-05 04:48:25,618 | | INFO | | Epoch: 8/10 |  avg_test_loss: 0.1405921 | perplexity: 1.1509551 |  test_accuracy: 0.9662308
+
+2022-11-05 04:48:42,385 | | INFO | | Epoch: 9/10 | avg_train_loss: 0.0494263 | perplexity: 1.0506681 | train_accuracy: 0.9837371
+2022-11-05 04:48:42,872 | | INFO | | Epoch: 9/10 |  avg_test_loss: 0.1295620 | perplexity: 1.1383297 |  test_accuracy: 0.9718462
+
+2022-11-05 04:48:42,873 | | INFO | | Update best val loss
+
+2022-11-05 04:48:43,285 | | INFO | | 
+
+---Final Results---
+2022-11-05 04:48:43,285 | | INFO | | Epochs: 10, Batch Size: 64, lr: 0.0005, train_loss: 0.0494
+2022-11-05 04:48:43,286 | | INFO | | Training Time: 210.50816798210144
+

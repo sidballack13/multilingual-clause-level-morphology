@@ -1,0 +1,3 @@
+target: abartmak INFRPRSHABNOM(3,SG)NEGQACC(1,PL)</s> pred: ataatmar INFRtaNOM(3,SG)NEGtt</s>atmmmtmQmNEG
+target: abartmak INDFUTPRSPNOM(1,SG)NEGQACC(3,PL)</s> pred: ataataam INFRNEGkta INFRACC(3,PL)tQkQtNOM(3,S
+target: abartmak INFRPSTPERFNOM(3,SG)NEGQACC(3,PL)</s> pred: aaarttarNEGmtm INFRtNEGtaNEGQmmm</s>ttNEGt</s>
